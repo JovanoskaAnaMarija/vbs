@@ -1,0 +1,24 @@
+.loader_main {
+    margin: 15% 0;
+}
+/* loader bar css start */
+
+.loader_main {
+    width: 100%;
+    text-align: center;
+    margin-top: 140px;
+}
+
+/*.loader {*/
+/*    border: 16px solid #f3f3f3;*/
+/*    border-radius: 50%;*/
+/*    border-top: 16px solid #CE272D;*/
+/*    border-right: 16px solid #414744;*/
+/*    border-bottom: 16px solid #CE272D;*/
+/*    border-left: 16px solid #414744;*/
+/*    width: 120px;*/
+/*    height: 120px;*/
+/*    -webkit-animation: spin 1s linear infinite;*/
+/*    animation: spin 3s linear infinite;*/
+/*    margin: 0 auto;*/
+/*}*/

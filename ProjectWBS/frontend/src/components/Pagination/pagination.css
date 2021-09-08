@@ -1,0 +1,13 @@
+.pagination-selected-item {
+    background-color: #d39e00 !important;
+
+}
+
+.page-item a {
+    color:black !important;
+}
+
+.pagination-selected-item a{
+    background-color: #d39e00 !important;
+    color:white !important;
+}

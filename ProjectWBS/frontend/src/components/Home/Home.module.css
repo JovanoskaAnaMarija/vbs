@@ -1,0 +1,10 @@
+
+p {
+    font-size: 20px;
+}
+
+.home-container {
+    opacity: 0.9;
+    background-color: #E3DB3F;
+    margin: 110px auto 3% auto !important;
+}

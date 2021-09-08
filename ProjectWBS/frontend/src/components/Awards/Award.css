@@ -1,0 +1,40 @@
+#awards {
+    margin-top: 100px;
+    margin-left: 650px;
+    position: relative;
+   top: -30px;
+}
+
+.award-item:hover {
+    border: 3px #d39e00 solid;
+    color:#d39e00;
+}
+
+.award-icon {
+    padding: 20px;
+}
+
+.award-hover-icon {
+    border: 3px #d39e00 solid;
+    color:#d39e00;
+}
+
+.btn-outline-ws {
+    color: #d39e00;
+    border: 1px solid  #d39e00;
+}
+
+.btn-outline-ws:hover {
+    color: white;
+    background-color: #d39e00;
+}
+
+.btn-ws {
+    color: white;
+    background-color: #d39e00;
+}
+
+.btn-ws:hover {
+    color: white;
+    background-color: #d39e00;
+}

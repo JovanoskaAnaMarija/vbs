@@ -1,0 +1,79 @@
+
+.meni
+{
+    background-color: #d39e00;
+}
+#home
+{
+    color: #eeeeee;
+    text-decoration: none;
+}
+#actors
+{
+    color: #eeeeee;
+    text-decoration: none;
+}
+#oscars
+{
+    color: #eeeeee;
+    text-decoration: none;
+}
+
+#movies
+{
+    color: #eeeeee;
+    text-decoration: none;
+}
+#directors
+{
+    color: black;
+    text-decoration: none;
+}
+#bestActors
+{
+    color: black;
+    text-decoration: none;
+}
+#bestActress
+{
+    color: black;
+    text-decoration: none;
+}
+
+
+#bestSupActor
+{
+    color: black;
+    text-decoration: none;
+}
+#bestSupActress
+{
+    color: black;
+    text-decoration: none;
+}
+
+#bestPictures
+{
+    color: black;
+    text-decoration: none;
+}
+#bestScreenplays
+{
+    color: black;
+    text-decoration: none;
+}
+#dr
+{
+    color: #eeeeee;
+    text-decoration: none;
+}
+.meni a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#about
+{
+    color: #eeeeee;
+    text-decoration: none;
+}

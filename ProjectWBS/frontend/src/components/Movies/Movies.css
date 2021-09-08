@@ -1,0 +1,43 @@
+#movies {
+    margin-top: 120px;
+}
+
+.movie-item:hover {
+    border: 3px #d39e00 solid;
+    color:#d39e00;
+}
+
+.movie-icon {
+    /*border: 1px red solid;*/
+    padding: 20px;
+}
+
+.movie-hover-icon {
+    border: 3px #d39e00 solid;
+    color:#d39e00;
+}
+
+.btn-outline-ws {
+    color: #d39e00;
+    /*color: rgb(242, 101, 34);*/
+    /*border: 1px rgb(242, 101, 34) solid;*/
+}
+
+.btn-outline-ws:hover {
+    color: white;
+    background-color: #d39e00;
+}
+
+.btn-ws {
+    color: white;
+    background-color: #d39e00;
+}
+
+.btn-ws:hover {
+    color: white;
+    background-color: #d39e00;
+}
+
+/*.text-ws {*/
+/*    color: rgb(242, 101, 34);*/
+/*}*/

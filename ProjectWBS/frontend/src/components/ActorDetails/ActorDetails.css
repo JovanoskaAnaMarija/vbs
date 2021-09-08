@@ -1,0 +1,25 @@
+.pd-container {
+    opacity: 0.9;
+    margin: 110px auto 3% auto !important;
+}
+
+.actor-image {
+    border:  solid 3px #CE272D;
+
+}
+
+.pb-100 {
+    padding-bottom: 100px;
+
+}
+.filmovi
+{
+    position: relative;
+    left: -420px;
+}
+#film
+{
+    position: relative;
+    left: -130px;
+}
+
